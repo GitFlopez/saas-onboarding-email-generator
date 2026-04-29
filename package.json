@@ -1,0 +1,10 @@
+{
+  "name": "saas-onboarding-email-generator",
+  "version": "1.0.0",
+  "description": "ClawHub skill: saas-onboarding-email-generator",
+  "license": "MIT-0",
+  "openclaw": {
+    "type": "skill",
+    "category": "email"
+  }
+}
